@@ -1,2 +1,2 @@
 # my project
-my first time using GitHub
+My first time using GitHub
